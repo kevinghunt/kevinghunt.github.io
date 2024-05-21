@@ -1,0 +1,8 @@
+---
+title: "Computation Camp"
+summary: "Eight lecture course in computational methods for second year Economics Ph.D. students."
+weight: 10
+date: '2023-08-01'
+# Optional external URL for project (replaces project detail page).
+external_link: https://kevinghunt.github.io/ComputationCamp/
+---

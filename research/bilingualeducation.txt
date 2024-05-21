@@ -1,0 +1,6 @@
+---
+title: "The Effect of Bilingual Education: Long-run Student Outcomes and Spillover Effects (with Hyun Lim)"
+summary: "A large and growing share of students arrive at school as English language learners (ELL). In Texas, schools provide bilingual education or an English as a second language programs for these students. Using a regression discontinuity design based on a quasi-experimental policy variation in Texas, this paper examines the effect of exposure to bilingual education in 1st grade on students' test scores and college enrollment. We find no effect of bilingual education in first grade on elementary school standardized test scores but large significant effects on college enrollment for both ELL and non-ELL students: bilingual education increases four-year university enrollment for ELL and non-ELL students by 6.4 and 6.8 p.p., respectively. The positive effects for both student groups in the long-run suggests that bilingual education has positive effects that are not well measured by short-run test scores for ELL students, and these effects spill-over to the outcomes on non-ELL students."
+weight: 10
+date: '2024-04-01'
+---

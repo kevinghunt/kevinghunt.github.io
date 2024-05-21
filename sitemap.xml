@@ -2,8 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://kevinghunt.github.io/research/earningshours/</loc>
+    <lastmod>2024-05-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://kevinghunt.github.io/research/bilingualeducation/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://kevinghunt.github.io/research/divorceretirement/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://kevinghunt.github.io/research/partialretirement/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://kevinghunt.github.io/teaching/computation_camp/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://kevinghunt.github.io/research/genderdisplacement/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://kevinghunt.github.io/talk/example-talk/</loc>
@@ -12,6 +32,10 @@
   </url><url>
     <loc>https://kevinghunt.github.io/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://kevinghunt.github.io/research/</loc>
+    <lastmod>2024-05-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://kevinghunt.github.io/teaching/</loc>

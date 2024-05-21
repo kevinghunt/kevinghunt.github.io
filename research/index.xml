@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Researches | Kevin Hunt</title>
+    <link>https://kevinghunt.github.io/research/</link>
+      <atom:link href="https://kevinghunt.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Researches</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kevinghunt.github.io/media/icon_hu7e20a992d4bc1700bde40dc4cbcacc86_21286_512x512_fill_lanczos_center_3.png</url>
+      <title>Researches</title>
+      <link>https://kevinghunt.github.io/research/</link>
+    </image>
+    
+    <item>
+      <title>Long-Term Employment Contracts for Earnings and Hours</title>
+      <link>https://kevinghunt.github.io/research/earningshours/</link>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://kevinghunt.github.io/research/earningshours/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effect of Bilingual Education: Long-run Student Outcomes and Spillover Effects</title>
+      <link>https://kevinghunt.github.io/research/bilingualeducation/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://kevinghunt.github.io/research/bilingualeducation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effect of Marriage and Divorce on Retirement Decisions</title>
+      <link>https://kevinghunt.github.io/research/divorceretirement/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://kevinghunt.github.io/research/divorceretirement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Partial Retirement Penalty within and across Firms</title>
+      <link>https://kevinghunt.github.io/research/partialretirement/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://kevinghunt.github.io/research/partialretirement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Job Security and the Gender Wage Gap</title>
+      <link>https://kevinghunt.github.io/research/genderdisplacement/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://kevinghunt.github.io/research/genderdisplacement/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

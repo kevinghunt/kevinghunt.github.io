@@ -13,10 +13,50 @@
     </image>
     
     <item>
+      <title>Long-Term Employment Contracts for Earnings and Hours</title>
+      <link>https://kevinghunt.github.io/research/earningshours/</link>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://kevinghunt.github.io/research/earningshours/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effect of Bilingual Education: Long-run Student Outcomes and Spillover Effects</title>
+      <link>https://kevinghunt.github.io/research/bilingualeducation/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://kevinghunt.github.io/research/bilingualeducation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effect of Marriage and Divorce on Retirement Decisions</title>
+      <link>https://kevinghunt.github.io/research/divorceretirement/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://kevinghunt.github.io/research/divorceretirement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Partial Retirement Penalty within and across Firms</title>
+      <link>https://kevinghunt.github.io/research/partialretirement/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://kevinghunt.github.io/research/partialretirement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Computation Camp</title>
       <link>https://kevinghunt.github.io/teaching/computation_camp/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://kevinghunt.github.io/teaching/computation_camp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Job Security and the Gender Wage Gap</title>
+      <link>https://kevinghunt.github.io/research/genderdisplacement/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://kevinghunt.github.io/research/genderdisplacement/</guid>
       <description></description>
     </item>
     
@@ -265,7 +305,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-861792345&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-286931574&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -275,7 +315,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-861792345&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-286931574&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
