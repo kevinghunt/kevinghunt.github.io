@@ -13,9 +13,9 @@
     </image>
     
     <item>
-      <title>Long-Term Employment Contracts for Earnings and Hours</title>
+      <title>Long-Term Employment Contracts for Earnings and Hours (Job Market Paper)</title>
       <link>https://kevinghunt.github.io/research/earningshours/</link>
-      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://kevinghunt.github.io/research/earningshours/</guid>
       <description></description>
     </item>
@@ -281,7 +281,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-579421368&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-895264713&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -291,7 +291,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-579421368&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-895264713&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
