@@ -13,6 +13,38 @@
     </image>
     
     <item>
+      <title>John Kennan (Chair)</title>
+      <link>https://kevinghunt.github.io/references/john/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kevinghunt.github.io/references/john/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rasmus Lentz</title>
+      <link>https://kevinghunt.github.io/references/rasmus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kevinghunt.github.io/references/rasmus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Corina Mommaerts</title>
+      <link>https://kevinghunt.github.io/references/corina/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kevinghunt.github.io/references/corina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chris Taber</title>
+      <link>https://kevinghunt.github.io/references/chris/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kevinghunt.github.io/references/chris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Long-Term Employment Contracts for Earnings and Hours (Job Market Paper)</title>
       <link>https://kevinghunt.github.io/research/earningshours/</link>
       <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
@@ -281,7 +313,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-839614275&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-714628953&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -291,7 +323,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-839614275&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-714628953&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

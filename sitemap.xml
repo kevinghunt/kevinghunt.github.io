@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://kevinghunt.github.io/references/john/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://kevinghunt.github.io/references/rasmus/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://kevinghunt.github.io/references/corina/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://kevinghunt.github.io/references/chris/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://kevinghunt.github.io/research/earningshours/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -159,6 +171,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://kevinghunt.github.io/admin/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://kevinghunt.github.io/references/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
